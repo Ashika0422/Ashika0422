@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashika Chamodi</h1>
-<h3 align="center">Computer Science undergraduate in Sri Lanka. Passionate about full stack web development</h3>
+<h3 align="center">
+  Computer Science undergraduate at the University of Kelaniya, Sri Lanka.<br>
+  Passionate about data science, machine learning, and full stack web development.
+</h3>
 
-- 🔭 I’m currently working on **full stack web development**
+- 🌱 I’m currently exploring **data science**, **machine learning**, and advanced **full stack development**
+- 🤝 I'm an **IEEE volunteer**, and board member of **ISACA** and **CSSA** at the University of Kelaniya
 
 ---
 
@@ -9,6 +13,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ashika-chamodi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashika-chamodi" height="30" width="40"/>
+  </a>
+  <a href="mailto:ashikadandeniya@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40"/>
   </a>
 </p>
 
