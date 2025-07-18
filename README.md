@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/ashika-chamodi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashika-chamodi" height="30" width="40"/>
   </a>
-  <a href="mailto:ashikadandeniya@gmail.com" target="blank">
+  <a href="mailto:dandeniyaashika@gmail.com" target="blank">
    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40"/>
   </a>
 </p>
