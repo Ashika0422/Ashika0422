@@ -7,7 +7,7 @@ I enjoy transforming ideas into real-world applications while continuously explo
 </p>
 
 <p align="center">
-  🌐 <a href="(https://ashikachamodi.vercel.app/)" target="_blank"><strong>View My Portfolio</strong></a>
+  🌐 <a href="https://ashikachamodi.vercel.app/" target="_blank"><strong>View My Portfolio</strong></a>
 </p>
 
 ---
@@ -34,7 +34,7 @@ I enjoy transforming ideas into real-world applications while continuously explo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="(https://ashikachamodi.vercel.app/)" target="_blank">
+<a href="https://ashikachamodi.vercel.app/" target="_blank">
 <img src="https://img.icons8.com/color/48/domain.png" width="40" height="40"/>
 </a>
 </p>
